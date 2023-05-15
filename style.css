@@ -10,7 +10,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .cabecalho {
-    background-color: #d192e4;
+    background-color: #d492e4;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@
 }
 
 .home{
-    background-image: linear-gradient( #a52dd4b6,#8f40f7);
+    background-image: linear-gradient( #a52dd467,#8f40f7);
     color: var(--textos);
     display:grid;
     grid-template-columns: 50% 50%;

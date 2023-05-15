@@ -1,6 +1,6 @@
 :root{
 
-    --titulo-secindario: #f8f8f8;
+    --titulo-secindario: #000000;
     --textos: #FFFFFF;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .home{
-    background-image: linear-gradient( #a52dd467,#9245f7);
+    background-image: linear-gradient( #c981e667,#9245f7);
     color: var(--textos);
     display:grid;
     grid-template-columns: 50% 50%;
